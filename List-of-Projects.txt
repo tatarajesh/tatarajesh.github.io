@@ -14,11 +14,11 @@ List of Projects & Brief description about the projects I had done during my Und
 
 ➤ Semister-4
 	Title 		: Attendance & Event Management System
-	Description	: Attendance Management System is the process of marking attendance 			online when an event is taken care by Event leader. Once the event got 				created in dashboard, Team Members who are signedup can registered and 			can view their attendance from their dashboard.
+	Description	: Attendance Management System is the process of marking attendance online when an event is taken care by Event leader. Once the event got created in dashboard, Team Members who are signedup can registered and can view their attendance from their dashboard.
 
 ➤ Semister-5
 	Title 		: Analysis of Andhra Pradesh Assembly Election Results - 2019
-	Description	: This project aims to identify trends of various political parties. Depicting 			the strong and week province and predicting the chances of winning the 				upcoming elections.
+	Description	: This project aims to identify trends of various political parties. Depicting the strong and week province and predicting the chances of winning the upcoming elections.
 
 ➤ Semister-6
 	Title 		: Food & Hospitality Systems
