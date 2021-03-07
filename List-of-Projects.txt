@@ -6,11 +6,11 @@ List of Projects & Brief description about the projects I had done during my Und
 
 ➤ Semister-2
 	Title 		: Movie tickets booking
-	Description	: The aim of the project is to provide the customers facility to book tickets 			for a movie through online in which they can book tickets anytime, 					anywhere. This project allows the user to check availability, book tickets 				and also to cancel tickets.
+	Description	: The aim of the project is to provide the customers facility to book tickets for a movie through online in which they can book tickets anytime, anywhere. This project allows the user to check availability, book tickets and also to cancel tickets.
 
 ➤ Semister-3
 	Title 		: Messenger @ java
-	Description	: Implement a GUI based program which looks like messenger which takes 			username and password as login credentials. After logging in, there should 			be list of 5 friends and each friend has a separate chat which allows you to 				send a message i.e chat. There is also an option of creating a new account.
+	Description	: Implement a GUI based program which looks like messenger which takes username and password as login credentials. After logging in, there should be list of 5 friends and each friend has a separate chat which allows you to send a message i.e chat. There is also an option of creating a new account.
 
 ➤ Semister-4
 	Title 		: Attendance & Event Management System
